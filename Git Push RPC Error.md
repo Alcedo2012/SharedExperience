@@ -5,7 +5,6 @@
 >  1,进入Git
 >  2,运行 git config --global http.postBuffer 1048576000
 
-# Git在push的时候发生错误
 
 
 ## 解决
